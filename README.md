@@ -48,6 +48,10 @@ A 기업은 2025년 6월 1일 서울 강남에서 열리는 AI 콘퍼런스에 �
 | main.py | 프로젝트 메인 실행 파일 |
 | 202321855_AnYeongmin_DescriptiveAssignment.docx | 서술형 과제 보고서 |
 | 202321855_AnYeongmin_AnalysisReport.docx | 실습 과제 보고서 |
-5
 | .env | API Key가 저장. |
 | README.md | 실행 안내서 (본 문서) |
+
+6. 참고자료
+심플러스. (2024). 파이썬 OpenAI API key 숨기기: env파일, 환경변수 설정. 심플러스. https://simpleuse.tistory.com/entry/howtousekey
+알고리듬. (2023). 환경 변수 (PATH)란?. 알고리듬. https://gliver.tistory.com/43
+강의 자료 Chapter 6~8 (프롬프트 설계)
