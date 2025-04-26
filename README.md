@@ -11,8 +11,8 @@ Introduction to Artificial Intelligence, 인공지능기초
 2. 시스템 구성
 - 사용한 모델: gpt-4o-mini
 - 사용한 주요 파라미터:
-  - `temperature`: 0.0
-  - `max_tokens`: 1000
+  - temperature: 0.0
+  - max_tokens: 1000
 - 라이브러리 및 환경:
   - Python 3.x
   - openai
